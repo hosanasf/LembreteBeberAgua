@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lembrete - BeberAgua</string>
+    <string name="hint_peso">Seu Peso (kg)</string>
+    <string name="hint_idade">Sua Idade </string>
+    <string name="text_button_calcular">Calcular Ingestão Diária</string>
+    <string name="text_button_lembrete">Lembrete</string>
+    <string name="text_button_alarme">Alarme</string>
+    <string name="text_hora">00</string>
+    <string name="text_dois_pontos">:</string>
+    <string name="text_minutos">00</string>
+    <string name="text_ml">3008,6 ml</string>
+    <string name="toast_informe_peso">Informe seu Peso!</string>
+    <string name="toast_informe_idade">Informe sua Idade!</string>
+    <string name="dialog_titulo">Redefinir Dados</string>
+    <string name="dialog_desc">Deseja excluir todos os dados existentes?</string>
+    <string name="alarme_mensagem">Hora de beber água</string>
+</resources>
